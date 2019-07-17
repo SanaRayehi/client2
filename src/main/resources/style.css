@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'OpenSansEmoji';
+    src: url('OpenSansEmoji.ttf');
+}
+
+#emojipanel {
+    -fx-font-family: OpenSansEmoji;
+    -fx-font-size: 30;
+}
+
+#messageInput {
+    -fx-font-family: OpenSansEmoji;
+    -fx-font-size: 16;
+}
+
+#emoji {
+    -fx-font-family: OpenSansEmoji;
+    -fx-font-size: 20;
+}
